@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/bin/Debug/net6.0/switch-case
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/bin/Debug/net6.0/switch-case.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/bin/Debug/net6.0/switch-case.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/bin/Debug/net6.0/switch-case.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/bin/Debug/net6.0/switch-case.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/refint/switch-case.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/switch-case.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/switch-case/obj/Debug/net6.0/ref/switch-case.dll
